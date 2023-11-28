@@ -87,3 +87,14 @@
 Dataset Link: [Data Link](https://github.com/PhonePe/pulse#readme)
 
 ## Inspired From: [PhonePe Pulse](https://www.phonepe.com/pulse/explore/transaction/2022/4/)
+
+## Contribution Guidelines
+
+Contributions to this project are highly encouraged. If you come across any challenges or have ideas for enhancements, we invite you to submit a pull request. Your input is valuable to us, and we appreciate your contributions.
+
+## Contact Information
+
+- **Email:** sec19ee048@sairamtap.edu.in
+- **LinkedIn:** [www.linkedin.com/in/priyanga070302](https://www.linkedin.com/in/priyanga070302)
+
+If you have any more questions or need further information, please don't hesitate to get in touch. We're here to help and answer any inquiries you may have.
