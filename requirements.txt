@@ -1,0 +1,10 @@
+os
+gitpython
+json
+pandas
+mysql-connector-python
+streamlit
+requests
+numpy
+plotly
+time
