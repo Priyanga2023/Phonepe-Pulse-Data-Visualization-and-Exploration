@@ -12,7 +12,6 @@
 - **Python**
 - **Pandas**
 - **MySQL**
-- **mysql-connector-python**
 - **Streamlit**
 - **Plotly**
 - **Domain: Fintech**
